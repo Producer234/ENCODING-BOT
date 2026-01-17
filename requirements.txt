@@ -15,6 +15,7 @@ dnspython
 motor
 
 # Others
+setuptools
 psutil
 js2py
 cloudscraper
